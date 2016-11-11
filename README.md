@@ -1,2 +1,3 @@
 # hello-world
-The test repository
+Hi, humans!
+We came with the peace:)
